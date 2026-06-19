@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+# AMAZON-CLONE
+=======
+# SEM2_PRACTICAL
+>>>>>>> cacf049544082d286bfbcd73549523c94bd3746b
